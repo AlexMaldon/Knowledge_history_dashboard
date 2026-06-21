@@ -5,6 +5,7 @@ Interactive Streamlit dashboard to explore a career-long history of completed co
 ## Why this project
 
 Whilst some people enjoy sunbathing on the beach, what I’m really passionate about is learning something new every day. As my job and hobby involve analysing data, here’s the story of my learning journey !
+
 Tracking decades of professional development (courses, certifications, bootcamps) in a spreadsheet makes it hard to see the bigger picture: which platforms were used most, how subject focus shifted over the years, and when specific skills (R, Python, SQL, Cloud/MLOps, Generative AI...) entered the picture. This dashboard turns that flat spreadsheet into an explorable, filterable view.
 
 ## Features

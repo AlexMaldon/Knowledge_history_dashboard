@@ -1,0 +1,202 @@
+idcourse,LINKEDIN,PLATAFORMA,TITULO,AÑO,AREA,Marketing,SPSS,EXCEL,TABLEAU,POWERBI,SQL,R,PYTHON,IA ML,Cloud MLOps
+1,,ESIC ,‘Análisis avanzado Gestión info estratégica y táctica de clientes’,2004,Business intelligence,,1,,,,,,,,
+2,,Instituto Universitario Estadística,‘Análisis de Datos y su Modelización’ ,1996,Modelling,,1,,,,,,,1,
+3,,Fundación Confemetal ,‘Bases de datos relacionales: SQL Server’,2006,Exploration analysis,,,,,,1,,,,
+4,,Univ. Murcia (MiriadaX) ,‘Big Data: valor añadido para el negocio’,2016,Business intelligence,1,,,,,,,,,
+5,XX,U. Oberta Catalunya (MiriadaX) ,‘Big Data’,2016,Business intelligence,1,,,,,,,,,
+6,XX,U. Oberta Catalunya (MiriadaX) ,‘Business Intelligence’,2016,Business intelligence,1,,,,,,,,,
+7,,Duke University (Coursera) ,‘Business metrics for data-driven companies’,2015,Business intelligence,,,1,,,,,,,
+8,,ESIC,‘Customer Relationship Management’ ,2005,Business intelligence,1,,,,,,,,,
+9,XX,Duke University (Coursera),‘Data analysis and statistical inference with R’,2015,Exploration analysis,,,,,,,1,,,
+10,XX,Johns Hopkins Univ. (Coursera),‘Data Scientist’s Toolbox’ ,2015,Exploration analysis,,,,,,,1,,,
+11,XX,Duke University (Coursera) ,‘Data visualization and communication with Tableau’,2015,Visualization,,,,1,,,,,,
+12,,ESIC,‘Dirección y Gestión info de proyectos’,2004,Business intelligence,1,,,,,,,,,
+13,,Facultad Univ. de Estadística ,‘Informática estadística para profesionales’,1997,Modelling,,1,,,,,,,,
+14,XX,Duke University (Coursera) ,‘Managing Big Data with MySQL’,2016,Exploration analysis,,,,,,1,,,,
+15,,Duke University (Coursera),‘Mastering data analysis in Excel’,2015,Exploration analysis,,,1,,,,,,,
+16,,Confemetal ,‘Programación avanzada Access: Basic y SQL’,2002,Exploration analysis,,,,,,1,,,,
+17,,Institución Profesional Salesiana ,‘Programación bases de datos relacionales con MySQL’ ,2012,Exploration analysis,,,,,,1,,,,
+18,,Institución Profesional Salesiana ,‘Programación lenguajes orientados a objetos: C++’ ,2012,Code lab,,,,,,1,,,,
+19,XX,Datacamp (624 exercises),"‘R: functions, importing, cleaning & data manipulation ",2016,Exploration analysis,,,,,,,1,,,
+20,,Estudios Estadísticos,‘Segmentación de mercados y tipologías de clientes’ ,1998,Business intelligence,1,,,,,,,,,
+21,,SPSS,‘SPSS: nuevas funcionalidades’ ,2006,Modelling,,1,,,,,,,,
+22,,ESIC,‘Técnico en Investigación de Mercados y Planes de Viabilidad’,1996,Business intelligence,1,,,,,,,,,
+23,,Inst. Mad. Formación,‘Técnico Seguridad y Protección Datos. Auditoría Informática’ ,1997,Business intelligence,1,,,,,,,,,
+24,XX,MIT,‘The analytics edge’,2016,Business intelligence,,,1,1,,,,,,
+25,,Miriadax,2/4 - 8/5 Gamificación,2020,Business intelligence,1,,,,,,,,,
+26,,Miriadax,8/4 - 8/5 Creatividad lateral,2020,Visualization,1,,,,,,,,,
+27,,Linkedin,"Advance Your Skills as an R Expert  Aptitudes: Visualización de datos, R Shiny ",2020,Visualization,,,,,,,1,,,
+28,SS,Linkedin,Advanced Microsoft Power BI ,2020,Exploration analysis,,,,,1,,,,,
+29,,Linkedin,Advanced NoSQL for Data Science ,2017,Exploration analysis,,,,,,1,,,,
+30,SS,Linkedin,Advanced SQL for Data Scientists ,2017,Exploration analysis,,,,,,1,,,,
+31,,Linkedin,Aprende big data: Análisis de datos ,2020,Exploration analysis,,,,,1,,,,,
+32,,Linkedin,Aprende big data: Visualización de datos ,2020,Visualization,,,,,1,,,,,
+33,,Linkedin,Aprende MongoDB: Bases de datos NoSQL ,2020,Exploration analysis,,,,,,1,,,,
+34,SS,Linkedin,Big Data Analytics with Hadoop and Apache Spark ,2020,Exploration analysis,,,,,,,,1,,
+35,,Linkedin,Big Data Foundations: Techniques and Concepts ,2017,Business intelligence,1,,,,,,,,,
+36,,Linkedin,Business Analytics: Data Reduction Techniques Using Excel and R ,2020,Exploration analysis,,,,,,,1,,,
+37,,Linkedin,Cleaning Bad Data in R ,2020,Data cleaning,,,,,,,1,,,
+38,,Datacamp,cleaning data,2016,Data cleaning,,,,,,,1,,,
+39,,Cisco,Cognos y Report building,2001,Business intelligence,,,1,,,,,,,
+40,SS,Linkedin,Creating Interactive Presentations with Shiny and R ,2017,Visualization,,,,,,,1,,,
+41,,Linkedin,Customer Insights and Consumer Analytics for Organizations: Tools and Analysis ,2020,Exploration analysis,1,,,,,,,,,
+42,,Linkedin,D3.js Essential Training for Data Scientists ,2017,Visualization,1,,,,,,,,,
+43,,Udacity,Data Analysis with R (3),2015,Exploration analysis,,,,,,,1,,,
+44,SS,Datacamp,Data manipulation with dplyr,2017,Exploration analysis,,,,,,,1,,,
+45,XX,Linkedin,Data Science Foundations: Data Mining ,2017,Modelling,,,1,,,,,,,
+46,,Linkedin,Data Science Foundations: Fundamentals,2017,Business intelligence,1,,,,,,,,,
+47,,Linkedin,Data Science on Google Cloud Platform: Predictive Analytics ,2020,Exploration analysis,1,,,,,,,,,
+48,,UDACITY,Data scientist advanced,2020,Modelling,,,,,,,,1,,
+49,SS,Linkedin,Data scientist: Azure ML y Power BI para minería de datos esencial ,2020,Exploration analysis,,,,,1,,,,,
+50,,Linkedin,Data Visualization for Data Analysts ,2020,Visualization,,,,1,,,,,,
+51,,Linkedin,Data Visualization for Marketers,2020,Visualization,,,,1,,,,,,
+52,,Datacamp,Data visualization ggplot2,2016,Visualization,,,,,,,1,,,
+53,SS,Linkedin,Data Visualization in R with ggplot2 ,2020,Visualization,,,,,,,1,,,
+54,SS,Linkedin,Data Wrangling in R ,2020,Data cleaning,,,,,,,1,,,
+55,,UDACITY,data-structures-and-algorithms-nanodegree,2020,Modelling,,,,,,,,1,,
+56,,Linkedin,Design Thinking: Understanding the Process ,2017,Visualization,1,,,,,,,,,
+57,,ESIC,Especialista en logística empresarial',1997,Exploration analysis,1,,,,,,,,,
+58,,Facultad Univ. de Estadística ,Estadística y medios de comunicación',1997,Business intelligence,1,,,,,,,,,
+59,,Duke University (Coursera),Excel a MySQL: tec analíticas negocios,2016,Exploration analysis,,,,,,1,,,,
+60,SS,Linkedin,Excel Business Intelligence 3: Power Pivot y DAX ,2020,Exploration analysis,,,1,,,,,,,
+61,,Datacamp,Importing  data,2016,Exploration analysis,,,,,,,1,,,
+62,,Linkedin,Integrating Tableau and R for Data Science ,2019,Visualization,,,,1,,,,,,
+63,,Coursera - Johns Hopkins,Intensivo Data Science,2015,Modelling,,,,,,,1,,,
+64,,Udacity,Intro to Descriptive Statistics (1),2015,Exploration analysis,,,,,,,1,,,
+65,,Udacity,Intro to Inferential Statistics (2),2016,Exploration analysis,,,,,,,1,,,
+66,SS,Datacamp,Joining Data with dplyr,2017,Exploration analysis,,,,,,,1,,,
+67,,Linkedin,Learning Data Visualization ,2020,Visualization,,,,1,,,,,,
+68,,Linkedin,Learning Excel Data-Mining ,2017,Modelling,,,1,,,,,,,
+69,,Linkedin,Learning the R Tidyverse ,2020,Exploration analysis,,,,,,,1,,,
+70,,Linkedin,Marketing Analytics: Setting and Measuring KPIs,2017,Modelling,,,1,,,,,,,
+71,,Linkedin,Marketing Foundations: Customer Decision Journey ,2017,Business intelligence,1,,,,,,,,,
+72,,Linkedin,Mobile App Analytics for Developers ,2020,Exploration analysis,1,,,,,,,,,
+73,,Neo4j,Neo4j y lenguaje Cypher,2017,Visualization,,,,,,1,,,,
+74,,Linkedin,Power BI avanzado ,2020,Modelling,,,,,1,,,,,
+75,SS,Linkedin,Power BI Data Modeling with DAX ,2020,Modelling,,,,,1,,,,,
+76,,Linkedin,Power BI esencial (2018) ,2020,Exploration analysis,,,,,1,,,,,
+77,,Linkedin,Power BI for Marketers ,2020,Exploration analysis,,,,,1,,,,,
+78,,Linkedin,Predictive Customer Analytics ,2020,Modelling,1,,,,,,,,,
+79,,Linkedin,Processing Text with R Essential Training ,2020,Exploration analysis,,,,,,,1,,,
+80,,Coursera,R data cleaning,2016,Data cleaning,,,,,,,1,,,
+81,,Linkedin,R para big data esencial ,2020,Exploration analysis,,,,,,,1,,,
+82,,Linkedin,R para data scientist avanzado ,2020,Modelling,,,,,,,1,,,
+83,,Coursera,R programming,2015,Modelling,,,,,,,1,,,
+84,,Linkedin,R Programming in Data Science: High Velocity Data ,2020,Exploration analysis,,,,,,,1,,,
+85,,Linkedin,R Programming in Data Science: High Volume Data ,2020,Exploration analysis,,,,,,,1,,,
+86,,Linkedin,R: Interactive Visualizations with htmlwidgets ,2020,Visualization,,,,,,,1,,,
+87,,Linkedin,Social Network Analysis Using R ,2017,Visualization,,,,,,,1,,,
+88,,Esri,Spatial data science,2020,Visualization,1,,,,,,,,,
+89,,Udemy,Tableau,,Visualization,,,,1,,,,,,
+90,,Linkedin,Text Analytics and Predictions with R Essential Training ,2020,Exploration analysis,,,,,,,1,,,
+91,,Linkedin,The Data Science of Marketing ,2017,Exploration analysis,1,,,,,,,,,
+92,,ESIC,Total CRM 2001',2001,Business intelligence,1,,,,,,,,,
+93,SS,Datacamp,Writing functions in R,2016,Exploration analysis,,,,,,,1,,,
+94,SS,Google Cloud,Implementting Generative AI Models in Vertex AI for Google Cloud Partners,2021,Production implementation,,,,,,,,,1,1
+95,SS,Google Cloud,Production Machine Learning Systems,2021,Production implementation,,,,,,,,,1,1
+96,SS,Google Cloud,Build and Deploy Machine Learning Solutions on Vertex AI,2021,Production implementation,,,,,,,,,1,1
+97,SS,Google Cloud,Building End to End MLOps Pipelines on Google Cloud,2021,Production implementation,,,,,,,,,1,1
+98,SS,Google Cloud,API de Dataset de TensorFlow,2021,Data engineering,,,,,,,,,,1
+99,SS,Google Cloud,Visualizaciones avanzadas con TensorFlow Data Validation,2021,Production implementation,,,,,,,,,,1
+100,SS,Google Cloud,Dataproc: Command Line,2021,Data engineering,,,,,,,,1,,1
+101,SS,Google Cloud,Dataflow: Python,2021,Data engineering,,,,,,,,1,,1
+102,SS,Google Cloud,Build a DNN using the Keras Functional API,2021,Production implementation,,,,,,,,1,1,1
+103,,Google Cloud,Advanced Generative AI Modeling in Vertex AI for Google Cloud Partners,2021,Production implementation,,,,,,,,,1,1
+104,,Google Cloud,Introducción a Vertex Pipelines,2021,Data engineering,,,,,,,,,1,1
+105,,Google Cloud,Supervisa los modelos de Vertex AI,2021,Production implementation,,,,,,,,1,1,1
+106,,Google Cloud,Use Vertex Vizier para optimizar varios objetivos,2021,Production implementation,,,,,,,,1,,1
+107,,Google Cloud,Prepare Data for ML APIs on Google Cloud: Lab de desafío,2021,Code lab,,,,,,,,,1,1
+108,,Google Cloud,Dataproc: Qwik Start - Consola,2021,Code lab,,,,,,,,,,1
+109,,Google Cloud,Explore tf.Transform,2021,Production implementation,,,,,,,,,,1
+110,,Google Cloud,Entrena a gran escala con el servicio de Vertex AI Training,2021,Production implementation,,,,,,,,,1,1
+111,,Google Cloud,Cómo desarrollar capas y modelos nuevos mediante la creación de subclases (opcional),2021,Production implementation,,,,,,,,,1,1
+112,,Google Cloud,Visualizaciones avanzadas con TensorFlow Data Validation,2021,Production implementation,,,,,,,,,,1
+113,,Google Cloud,Introducción a TensorFlow Data Validation,2021,Production implementation,,,,,,,,,,1
+114,,Google Cloud,Cuestionario: Generalización y muestreo,2021,Code lab,,,,,,,,,,1
+115,,Google Cloud,Cuestionario: Optimización,2021,Code lab,,,,,,,,,,1
+116,,Google Cloud,Cuestionario: Aprendizaje automático en BigQuery: Desarrolla modelos de AA en el lugar en el que se encuentran tus datos,2022,Code lab,,,,,,,,,1,1
+117,,Google Cloud,Implementa un clasificador de deserción de clientes de BigQuery ML en Vertex AI para realizar predicciones en línea,2022,Modelling,,,,,,,,,1,1
+118,,Google Cloud,Identify Damaged Car Parts with Vertex AutoML Vision,2022,Modelling,,,,,,,,,1,1
+119,,Google Cloud,Vertex AI: Qwik Start,2022,Code lab,,,,,,,,,,1
+120,,Google Cloud,Vertex AI: Qwik Start,2022,Code lab,,,,,,,,,,1
+121,,Google Cloud,Cómo entrenar un modelo de clasificación de AutoML: Datos estructurados,2022,Production implementation,,,,,,,,,1,1
+122,,Google Cloud,Introducción a la regresión lineal,2022,Modelling,,,,,,,,1,,1
+123,,Google Cloud,Improving Data Quality,2022,Data cleaning,,,,,,,,,,1
+124,,Google Cloud,Realiza análisis exploratorios de datos a través de Python y BigQuery,2022,Exploration analysis,,,,,,,,1,,1
+125,,Google Cloud,Improving Data Quality,2022,Data cleaning,,,,,,,,,,1
+126,,Google Cloud,Cuestionario: Entrenamiento de modelos de AutoML con Vertex AI,2022,Code lab,,,,,,,,,1,1
+127,,Google Cloud,Cuestionario: El aprendizaje automático en la práctica,2022,Code lab,,,,,,,,,1,1
+128,,Google Cloud,Cuestionario: Conozca sus datos: Mejore los datos por medio de análisis exploratorios de datos,2022,Code lab,,,,,,,,,,1
+129,,Google Cloud,Build a DNN using the Keras Functional API,2022,Production implementation,,,,,,,,,,1
+130,,Google Cloud,Presentación de la API secuencial de Keras en Vertex AI Platform,2022,Production implementation,,,,,,,,,,1
+131,,Google Cloud,Cuestionario: Entrenamiento a gran escala con Vertex AI,2022,Code lab,,,,,,,,,,1
+132,,Google Cloud,Cuestionario: Cómo crear redes neuronales en TensorFlow con la API de Keras,2022,Code lab,,,,,,,,,,1
+133,,Google Cloud,Cuestionario: Diseñe y cree una canalización de datos de entrada,2022,Code lab,,,,,,,,,,1
+134,,Google Cloud,Introducing the Keras Sequential API on Vertex AI Platform,2022,Production implementation,,,,,,,,1,,1
+135,,Google Cloud,Cuestionario: Diseñe y cree una canalización de datos de entrada,2022,Code lab,,,,,,,,,,1
+136,,Google Cloud,Clasifica datos estructurados con las capas de procesamiento previo de Keras,2022,Modelling,,,,,,,,,,1
+137,,Google Cloud,API de Dataset de TensorFlow,2023,Modelling,,,,,,,,,,1
+138,,Google Cloud,Using Feature Store,2023,Data engineering,,,,,,,,1,,1
+139,,Google Cloud,Realiza ingeniería de atributos básica en BQML,2023,Data engineering,,,,,,,,,1,1
+140,,Google Cloud,Cuestionario: Introducción al ecosistema de TensorFlow,2023,Code lab,,,,,,,,,,1
+141,,Google Cloud,TensorFlow on Google Cloud - Español,2023,Production implementation,,,,,,,,,,1
+142,,Google Cloud,Cuestionario: Sistemas híbridos de AA,2023,Code lab,,,,,,,,,1,1
+143,,Google Cloud,Cuestionario: Diseño de sistemas de AA de alto rendimiento,2023,Code lab,,,,,,,,,1,1
+144,,Google Cloud,Cuestionario: Diseño de sistemas de AA adaptables,2023,Code lab,,,,,,,,,1,1
+145,,Google Cloud,Cuestionario: Arquitectura de sistemas de AA de producción,2023,Code lab,,,,,,,,,1,1
+146,,Google Cloud,Cuestionario: Vertex AI Pipelines,2023,Code lab,,,,,,,,1,1,1
+147,,Google Cloud,Cuestionario: Predicción y supervisión de modelos con Vertex AI,2023,Code lab,,,,,,,,,1,1
+148,,Google Cloud,Cuestionario: Introducción a TensorFlow Transform,2023,Code lab,,,,,,,,,,1
+149,,Google Cloud,Cuestionario: Combinaciones de atributos - TensorFlow Playground,2023,Code lab,,,,,,,,1,,1
+150,,Google Cloud,Cuestionario: Procesamiento previo y creación de atributos,2023,Code lab,,,,,,,,1,,1
+151,,Google Cloud,Cuestionario: Ingeniería de atributos,2023,Code lab,,,,,,,,1,,1
+152,,Google Cloud,Realiza ingeniería de atributos avanzada en Keras,2023,Data engineering,,,,,,,,1,,1
+153,,Google Cloud,Realiza ingeniería de atributos básica en Keras,2023,Data engineering,,,,,,,,1,,1
+154,,Google Cloud,Realiza ingeniería avanzada de atributos en BQML,2024,Data engineering,,,,,,,,1,1,1
+155,,Google Cloud,Building End to End MLOps Pipelines using Vertex AI,2024,Data engineering,,,,,,,,,1,1
+156,,Google Cloud,"Perform Foundational Data, ML, and AI Tasks in Google Cloud: Challenge Lab",2024,Code lab,,,,,,,,,1,1
+157,,Google Cloud,Video Intelligence: Qwik Start,2024,Code lab,,,,,,,,,,1
+158,,Google Cloud,API de Google Cloud Speech: Qwik Start,2024,Code lab,,,,,,,,,,1
+159,,Google Cloud,Dataproc: Qwik Start - Console,2024,Code lab,,,,,,,,,,1
+160,,Google Cloud,API de Cloud Natural Language: Qwik Start,2024,Code lab,,,,,,,,,,1
+161,,Google Cloud,Dataproc: Qwik Start - Command Line,2024,Code lab,,,,,,,,,,1
+162,,Google Cloud,Dataproc: Qwik Start - Console,2024,Code lab,,,,,,,,,,1
+163,,Google Cloud,Dataflow: Qwik Start - Python,2024,Code lab,,,,,,,,1,,1
+164,,Google Cloud,Dataflow: Qwik Start - Plantillas,2024,Code lab,,,,,,,,,,1
+165,,Google Cloud,Dataprep: Qwik Start,2024,Code lab,,,,,,,,,,1
+166,,Google Cloud,Vertex AI: Qwik Start,2024,Code lab,,,,,,,,,,1
+167,,Google Cloud,Cuestionario: De los datos sin procesar a los atributos,2024,Code lab,,,,,,,,1,1,1
+168,,Google Cloud,Cuestionario: Introducción a Vertex AI Feature Store,2024,Code lab,,,,,,,,1,1,1
+169,,Google Cloud,Feature Engineering - Español,2024,Data engineering,,,,,,,,1,1,1
+170,,Google Cloud,Cuestionario: Ajuste de hiperparámetros con Vertex Vizier,2024,Code lab,,,,,,,,1,1,1
+171,,Google Cloud,Cuestionario: La ciencia del aprendizaje automático y el entrenamiento personalizado,2025,Code lab,,,,,,,,,1,1
+172,,Google Cloud,Cuestionario: Datos en la empresa,2025,Code lab,,,,,,,,,,1
+173,,Google Cloud,Cuestionario: Comprensión del flujo de trabajo del AA empresarial,2025,Code lab,,,,,,,,,,1
+174,,Google Cloud,A Tour of Google Cloud Hands-on Labs,2025,Code lab,,,,,,,,,,1
+175,,Google Cloud,Explicación de la clasificación de texto con Vertex Explainable AI,2025,Modelling,,,,,,,,,1,1
+176,,Google Cloud,Explicación de la clasificación de texto con Vertex Explainable AI,2025,Modelling,,,,,,,,,1,1
+177,,Google Cloud,Generative AI Workshop Model Tuning,2025,Modelling,,,,,,,,,1,1
+178,,Google Cloud,Explora Model Garden,2025,Modelling,,,,,,,,,1,1
+179,,Google Cloud,Generative AI with Vertex AI: Codey,2025,Production implementation,,,,,,,,1,1,1
+180,,Google Cloud,Generative AI Workshop: Instructor Led Training,2025,Production implementation,,,,,,,,,,1
+181,,Google Cloud,Cree una canalización de datos de transmisión para un panel en tiempo real con Dataflow,2025,Data engineering,,,,,,,,,,1
+182,,Google Cloud,Explore un conjunto de datos públicos de BigQuery,2025,Exploration analysis,,,,,,,,,,1
+183,,Google Cloud,Certification Learning Path: Professional Machine Learning Engineer,2025,Production implementation,,,,,,,,1,1,1
+184,,Google Cloud,Computer Vision Fundamentals with Google Cloud,2025,Modelling,,,,,,,,,,1
+185,,Google Cloud,Build and Deploy Machine Learning Solutions on Vertex AI,2025,Production implementation,,,,,,,,1,1,1
+186,,Google Cloud,Launching into Machine Learning - Español,2025,Modelling,,,,,,,,1,1,1
+187,,Google Cloud,ML Pipelines on Google Cloud,2025,Modelling,,,,,,,,,1,1
+188,,Google Cloud,Machine Learning Operations (MLOps) with Vertex AI: Manage Features - Español,2025,Modelling,,,,,,,,,1,1
+189,,Google Cloud,Machine Learning Operations (MLOps): Getting Started - Español,2025,Modelling,,,,,,,,,1,1
+190,,Google Cloud,Production Machine Learning Systems,2025,Production implementation,,,,,,,,,1,1
+191,,Google Cloud,Recommendation Systems on Google Cloud,2025,Modelling,,,,,,,,,1,1
+192,,Google Cloud,ML Ops Using Vertex AI Quest,2025,Production implementation,,,,,,,,,1,1
+193,,Google Cloud,Machine Learning in the Enterprise - Español,2025,Modelling,,,,,,,,,1,1
+194,,Google Cloud,"Perform Foundational Data, ML, and AI Tasks in Google Cloud",2025,Modelling,,,,,,,,,1,1
+195,,Google Cloud,Introduction to AI and Machine Learning on Google Cloud,2025,Production implementation,,,,,,,,,1,1
+196,,Google Cloud,Implementing Generative AI with Vertex AI,2025,Production implementation,,,,,,,,,1,1
+197,,Google Cloud,Google Cloud Big Data and Machine Learning Fundamentals,2025,Modelling,,,,,,,,,1,1
+198,,Matt Dancho,Generative AI bootcamp,2026,Production implementation,,,,,,,,,1,1
+199,,Matt Dancho,AI Data Science course,2026,Production implementation,,,,,,,,,1,1
+200,,Madrid Innovation Lab,IA estratégica,2026,Production implementation,,,,,,,,,1,1
+201,,Madrid Innovation Lab,IA Summer camp,2026,Production implementation,,,,,,,,,1,1
